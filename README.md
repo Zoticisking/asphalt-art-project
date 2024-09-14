@@ -24,12 +24,14 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 ## Reflection
 1. Describe your project.
 
-   - Write your response here...
+   - My project was pretty easy and fun to make.
+   - The coding part was the hardest part of my project.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - I am proud that my project functions correctly 
+   - I am proud that I finsihed my project on time.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - I would ask the teacher to help with some code so the desing can come out better. I say this because me struggling in my code made me choose a plain and easy design.
